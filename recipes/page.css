@@ -1,0 +1,22 @@
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+*{
+    background-color: black;
+    color: white;
+    font-size: 22px;
+}
+.back{
+    color: wheat;
+    font-style: italic;
+}
+h1{
+color:hsl(184, 85%, 48%);
+font-family: sans-serif;
+text-align: center;
+font-size: 40px;
+}
+
